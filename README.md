@@ -21,6 +21,11 @@ I specialize in building reliable automation frameworks and testing solutions fo
 🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Postman**, **Jenkins** and **JMeter**.  
 🔹 Passionate about: **Web - API Automation Testing** and **Generative AI Model Testing**
 
+## 🌱 I’m currently learning about ...
+- 🤖 GenAI Model Accuracy Testing (Techniques & Strategies)
+- 📊 Entity Extraction and Classification Model's (GenAI) Validation Techniques
+- 🧠 Prompt Engineering to evaluate and enhance GenAI Model performance
+
 ## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
