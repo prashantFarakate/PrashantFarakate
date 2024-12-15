@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Prashant Farakate
+# 👋 Hi there, I'm [Prashant Farakate](https://www.linkedin.com/in/prashant-farakate-91a162191/)
+
+<h1 align="center">
+  👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
+</h1>
+
 
 **SDET | QA Specialist | Automation Enthusiast**
 
