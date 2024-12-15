@@ -1,9 +1,9 @@
 <h1 align="center">
-  #👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
+  👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
 </h1>
 
 <h1 align="center">
-  # SDET | QA Analyst | AI/ML/GenAI Model Testing 
+  # SDET with 3.8+ Years of Experience | QA Analyst | AI/ML/GenAI Model Testing 
 </h1>
 
 **SDET | QA Specialist | Automation Enthusiast**
