@@ -3,8 +3,14 @@
 </h3>
 
 <h2 align="center">
-  SDET with 3.8+ Years of Experience | QA Analyst | AI/ML/GenAI Model Testing 
+  SDET with 3.8+ Years of Exp 💻 | Web - API Automation 🧑‍💻 | AI/ML/GenAI Model Testing 🤖
 </h2>
+
+<p align="center">
+  I am an <strong>SDET</strong> with 3.8 years of experience in QA, specializing in testing generative AI models, web automation, and API automation.  
+  Proficient in creating robust automation frameworks for web and API testing using <strong>Python</strong>, <strong>pytest</strong>, <strong>Selenium</strong>, and <strong>Jenkins</strong>.  
+  Passionate about leveraging technology to ensure quality and reliability in software systems.
+</p>
 
 **SDET | QA Specialist | Automation Enthusiast**
 
