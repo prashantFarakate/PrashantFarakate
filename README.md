@@ -1,3 +1,4 @@
+##
 <h3 align="center">
   👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
 </h3>
@@ -6,15 +7,13 @@
   SDET with 3.8+ Years of Exp 💻 | Web - API Automation 🧑‍💻 | AI/ML/GenAI Model Testing 🤖
 </h3>
 
-**SDET | QA Specialist | Automation Enthusiast**
-
+## 🧑‍💻 About Me
 <p align="left">
   I am an <strong>SDET</strong> with 3.8 years of experience in QA, specializing in testing API, Web Application, ML and Gen AI models.  
   Proficient in creating robust automation frameworks for Web and API testing using <strong>Python</strong>, <strong>pytest</strong>, <strong>Selenium</strong>.  
   Passionate about leveraging technology to ensure quality and reliability in software systems.
 </p>
 
-**SDET | QA Specialist | Automation Enthusiast**
 
 I specialize in building reliable automation frameworks and testing solutions for modern software systems.  
 🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Jenkins**, **Docker**, and **JMeter**.  
