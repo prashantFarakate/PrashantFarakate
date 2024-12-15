@@ -67,7 +67,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
   <br>
   
-  <p>
+  <p align="center">
     Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
   </p>
 
