@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Prashant Farakate
 
 **SDET | QA Specialist | Automation Enthusiast**
