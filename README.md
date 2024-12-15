@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  SDET with 3.8+ Years of Exp 💻 | Web - API Automation 🧑‍💻 | AI/ML/GenAI Model Testing 🤖
+  SDET with 3.5+ Years of Exp 💻 | Web - API Automation 🧑‍💻 | AI/ML/GenAI Model Testing 🤖
 </h3>
 
 ## 🧑‍💻 About Me
