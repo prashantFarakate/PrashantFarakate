@@ -1,6 +1,6 @@
 ##
 <h3 align="center">
-  👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
+  👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant</a>
 </h3>
 
 <h3 align="center">
@@ -16,7 +16,7 @@
 
 
 I specialize in building reliable automation frameworks and testing solutions for modern software systems.  
-🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Jenkins** and **JMeter**.  
+🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Postman**, **Jenkins** and **JMeter**.  
 🔹 Passionate about: **Web - API Automation Testing** and **Generative AI Model Testing**
 
 ## 🔧 Tools & Technologies
@@ -35,13 +35,14 @@ I specialize in building reliable automation frameworks and testing solutions fo
 
 
 ## 📂 Projects
-- **[API Automation Framework](#)**  
+- **[API Automation Framework](https://github.com/prashantFarakate/api-automation-framework-python)**  
   A pytest-based framework for REST API testing.
-  
-- **[Selenium Framework](#)**  
-  A web automation project integrated with Jenkins.
 
-
+- **[Text Comparator](https://text-comparator.web.app/)**
+  A web-based tool for comparing text with color-coded differences:  
+  - 🟢 **Green** for added words.  
+  - 🔴 **Red** for missing words.  
+  Simplifies text analysis by visually highlighting changes and discrepancies.
 
 ## 📈 GitHub Stats
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantFarakate&show_icons=true&theme=radical)
@@ -51,6 +52,7 @@ I specialize in building reliable automation frameworks and testing solutions fo
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
 [![Email](https://img.shields.io/badge/Email-prashantf18@gmail.com-red?style=flat&logo=gmail)](mailto:prashantf18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919130902721)
 
 <!--
 **prashantFarakate/PrashantFarakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
