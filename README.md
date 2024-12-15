@@ -53,7 +53,7 @@ I specialize in building reliable automation frameworks and testing solutions fo
 ## 📫 Contact Me  
 I'm always open to new opportunities and collaborations. Feel free to reach out!  
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/">
     <img src="https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -65,7 +65,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
   </a>
 </div>  
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 30px;">
   Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
 </p>
 
