@@ -1,3 +1,5 @@
+![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/Prashant_Banner.png)
+
 ##
 <h3 align="center">
   👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant</a>
