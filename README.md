@@ -50,15 +50,25 @@ I specialize in building reliable automation frameworks and testing solutions fo
 
 
 
-## 📫 Contact Me
+## 📫 Contact Me  
 I'm always open to new opportunities and collaborations. Feel free to reach out!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
-[![Email](https://img.shields.io/badge/Email-prashantf18@gmail.com-red?style=flat&logo=gmail)](mailto:prashantf18@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919130902721)
 
-<p align='center'>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:prashantf18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prashantf18@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://wa.me/+919130902721">
+    <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>  
+
+<p align="center" style="margin-top: 20px;">
   Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
 </p>
+
 
 <!--
 **prashantFarakate/PrashantFarakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
