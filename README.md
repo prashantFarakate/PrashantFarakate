@@ -1,4 +1,4 @@
-![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/Prashant_Banner.png)
+[![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/Prashant_Banner.png)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
 
 ##
 <h3 align="center">
