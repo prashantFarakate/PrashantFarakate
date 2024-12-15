@@ -28,8 +28,8 @@ I specialize in building reliable automation frameworks and testing solutions fo
 
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prashant-farakate)
-[![Email](https://img.shields.io/badge/Email-prashant@example.com-red?style=flat&logo=gmail)](mailto:prashant@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
+[![Email](https://img.shields.io/badge/Email-prashant@example.com-red?style=flat&logo=gmail)](mailto:prashantf18@gmail.com)
 
 <!--
 **prashantFarakate/PrashantFarakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
