@@ -16,13 +16,21 @@
 
 
 I specialize in building reliable automation frameworks and testing solutions for modern software systems.  
-🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Jenkins**, **Docker**, and **JMeter**.  
-🔹 Passionate about: **Generative AI Model Testing** and **API Automation**.
+🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Jenkins** and **JMeter**.  
+🔹 Passionate about: **Web - API Automation Testing** and **Generative AI Model Testing**
 
 ## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-4B0082?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF7F50?style=for-the-badge)
 
 
 
