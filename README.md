@@ -38,11 +38,12 @@ I specialize in building reliable automation frameworks and testing solutions fo
 - **[API Automation Framework](https://github.com/prashantFarakate/api-automation-framework-python)**  
   A pytest-based framework for REST API testing.
 
-- **[Text Comparator](https://text-comparator.web.app/)**
+- **[Text Comparator](https://text-comparator.web.app/)**  
   A web-based tool for comparing text with color-coded differences:  
   - 🟢 **Green** for added words.  
   - 🔴 **Red** for missing words.  
   Simplifies text analysis by visually highlighting changes and discrepancies.
+
 
 ## 📈 GitHub Stats
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantFarakate&show_icons=true&theme=radical)
