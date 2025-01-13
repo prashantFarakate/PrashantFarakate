@@ -18,16 +18,17 @@
 
 
 I specialize in building reliable automation frameworks and testing solutions for modern software systems.  
-🔹 Experienced in: **Python**, **Selenium**, **pytest**, **Postman**, **Jenkins** and **JMeter**.  
+🔹 Experienced in: **Python**, **Playwright**, **Selenium**, **pytest**, **Postman**, **Jenkins** and **JMeter**.  
 🔹 Passionate about: **Web - API Automation Testing** and **Generative AI Model Testing**
 
 ## 🌱 I’m currently learning about ...
 - 🤖 GenAI Model Accuracy Testing (Techniques & Strategies)
-- 📊 Entity Extraction and Classification Model's (GenAI) Validation Techniques
-- 🧠 Prompt Engineering to evaluate and enhance GenAI Model performance
+- 📊 Web Automation with Playwright and Pytest
+  
 
 ## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,6 +43,9 @@ I specialize in building reliable automation frameworks and testing solutions fo
 
 
 ## 📂 Projects
+- **[Web Automation Framework](https://github.com/prashantFarakate/playwright-pytest-framework)**  
+  A Playwright-Pytest framework for modern Web testing.
+  
 - **[API Automation Framework](https://github.com/prashantFarakate/api-automation-framework-python)**  
   A pytest-based framework for REST API testing.
 
