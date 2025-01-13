@@ -11,8 +11,8 @@
 
 ## 🧑‍💻 About Me
 <p align="left">
-  I am an <strong>SDET</strong> with 3.8 years of experience in QA, specializing in testing API, Web Application, ML and Gen AI models.  
-  Proficient in creating robust automation frameworks for Web and API testing using <strong>Python</strong>, <strong>pytest</strong>, <strong>Selenium</strong>.  
+  I am an <strong>SDET</strong> with 3.5+ years of experience in QA, specializing in testing API, Web Application, ML and Gen AI models.  
+  Proficient in creating robust automation frameworks for Web and API testing using <strong>Python</strong>, <strong>pytest</strong>, <strong>Playwright</strong>, <strong>Selenium</strong>.  
   Passionate about leveraging technology to ensure quality and reliability in software systems.
 </p>
 
