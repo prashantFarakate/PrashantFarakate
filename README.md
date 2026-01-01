@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-I have **5 years of experience** across **Business Analysis and Quality Assurance** in the ERP domain, working on **AI-enabled document processing systems**.
+Having **5 years of experience** across **Business Analysis and Quality Assurance** in the ERP domain, working on **AI-enabled document processing systems**.
 
-My work focuses on **bridging business requirements with AI and engineering teams** to deliver reliable, scalable GenAI solutions. I have hands-on experience in **requirement definition, UAT, data analysis, model validation, and prompt engineering**, and I actively contribute to improving **entity extraction and classification accuracy** using LLMs and OCR.
+My work focuses on bridging business requirements with AI and engineering teams to deliver reliable, scalable GenAI solutions. I have hands-on experience with LLM-based systems, including entity extraction, document classification, OCR, and prompt engineering, and exposure to modern AI architectures such as Agentic AI, Retrieval-Augmented Generation (RAG), Vector Databases, and MCP-based workflows.
 
 Currently, I’m transitioning toward **AI Product Management**, supported by formal training through **HelloPM** and practical experience on GenAI products.
 
@@ -51,10 +51,13 @@ Currently, I’m transitioning toward **AI Product Management**, supported by fo
 
 ### 🤖 AI & GenAI
 - LLM fundamentals & prompt engineering  
+- Agentic AI concepts & workflow orchestration  
+- Retrieval-Augmented Generation (RAG) systems  
+- Vector Databases (embedding-based retrieval)  
+- MCP-based AI workflows  
 - Entity extraction & document classification  
 - Ground-truth creation & model evaluation  
-- OCR-based document processing  
-- AI quality metrics & validation  
+- AI quality metrics, accuracy validation, and reliability testing  
 
 ### 📊 Data & QA
 - Python, SQL (PostgreSQL), Pandas, NumPy  
@@ -66,7 +69,8 @@ Currently, I’m transitioning toward **AI Product Management**, supported by fo
 - JIRA, Figma, Postman, JMeter  
 - VS Code, PyCharm, Git  
 - Cursor, Amazon Q, Lovable (AI productivity tools)  
-- AWS (S3, EC2)
+- AWS (S3, EC2)  
+- Vector DB–backed retrieval systems (RAG pipelines)
 
 ---
 
