@@ -1,100 +1,106 @@
 [![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/Prashant_Banner.png)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
 
-##
 <h3 align="center">
-  👋 Hi there, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant</a>
+  👋 Hi, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
 </h3>
 
 <h3 align="center">
-  Business Analyst specializing in AI/ML and Process Automation
+  Business Analyst | AI Product Management Enthusiast | GenAI & QA Background
 </h3>
+
+---
 
 ## 🧑‍💻 About Me
-<p align="left">
-  I am an <strong>SDET</strong> with 3.5+ years of experience in QA, specializing in testing API, Web Application, ML and Gen AI models.  
-  Proficient in creating robust automation frameworks for Web and API testing using <strong>Python</strong>, <strong>pytest</strong>, <strong>Playwright</strong>, <strong>Selenium</strong>.  
-  Passionate about leveraging technology to ensure quality and reliability in software systems.
-</p>
 
+I have **5 years of experience** across **Business Analysis and Quality Assurance** in the ERP domain, working on **AI-enabled document processing systems**.
 
-I specialize in building reliable automation frameworks and testing solutions for modern software systems.  
-🔹 Experienced in: **Python**, **Playwright**, **Selenium**, **pytest**, **Postman**, **Jenkins** and **JMeter**.  
-🔹 Passionate about: **Web - API Automation Testing** and **Generative AI Model Testing**
+My work focuses on **bridging business requirements with AI and engineering teams** to deliver reliable, scalable GenAI solutions. I have hands-on experience in **requirement definition, UAT, data analysis, model validation, and prompt engineering**, and I actively contribute to improving **entity extraction and classification accuracy** using LLMs and OCR.
 
-## 🌱 I’m currently learning about ...
-- 🤖 GenAI Model Accuracy Testing (Techniques & Strategies)
-- 📊 Web Automation with Playwright and Pytest
-  
+Currently, I’m transitioning toward **AI Product Management**, supported by formal training through **HelloPM** and practical experience on GenAI products.
 
-## 🔧 Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-4B0082?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF7F50?style=for-the-badge)
+---
 
+## 🔍 What I Work On
 
+- 📌 Defining **product requirements, user stories, and acceptance criteria** for AI-enabled features  
+- 🤖 Improving **LLM-based entity extraction & classification** using ground truth, prompt design, and model evaluation  
+- 📊 Analyzing extraction data to identify **error patterns, edge cases, and improvement opportunities**  
+- 🧪 Validating **GenAI model accuracy, performance, and reliability**  
+- 🔁 Supporting **Agile delivery**, backlog prioritization, UAT, and release readiness  
+- 📄 Maintaining **product and prompt engineering best-practice documentation**
 
-## 📂 Projects
+---
+
+## 🌱 Currently Learning
+
+- AI Product Management (HelloPM)
+- Product strategy, roadmaps, and prioritization for AI products
+- AI success metrics, evaluation frameworks, and trade-offs
+- Prototyping and AI-first product thinking
+
+---
+
+## 🧠 Skills Snapshot
+
+### 🧩 Product & Business Analysis
+- Product strategy & roadmap fundamentals  
+- Feature prioritization & problem framing  
+- Requirement gathering, user stories, acceptance criteria  
+- Stakeholder management & UAT  
+- Product & process documentation  
+
+### 🤖 AI & GenAI
+- LLM fundamentals & prompt engineering  
+- Entity extraction & document classification  
+- Ground-truth creation & model evaluation  
+- OCR-based document processing  
+- AI quality metrics & validation  
+
+### 📊 Data & QA
+- Python, SQL (PostgreSQL), Pandas, NumPy  
+- Web & API testing (Postman, pytest)  
+- Performance testing (JMeter)  
+- Defect tracking (JIRA, Zephyr, TestLink)  
+
+### 🛠 Tools & Platforms
+- JIRA, Figma, Postman, JMeter  
+- VS Code, PyCharm, Git  
+- Cursor, Amazon Q, Lovable (AI productivity tools)  
+- AWS (S3, EC2)
+
+---
+
+## 📂 Featured Projects
+
 - **[Web Automation Framework](https://github.com/prashantFarakate/playwright-pytest-framework)**  
-  A Playwright-Pytest framework for modern Web testing.
-  
+  A scalable Playwright + Pytest framework for modern web automation.
+
 - **[API Automation Framework](https://github.com/prashantFarakate/api-automation-framework-python)**  
-  A pytest-based framework for REST API testing.
+  Pytest-based framework for REST API testing and validation.
 
 - **[Text Comparator](https://text-comparator.web.app/)**  
-  A web-based tool for comparing text with color-coded differences:  
-  - 🟢 **Green** for added words.  
-  - 🔴 **Red** for missing words.  
-  Simplifies text analysis by visually highlighting changes and discrepancies.
+  Web tool to compare text outputs with visual highlights for differences — useful for validating AI extraction results.
 
+---
 
-## 📈 GitHub Stats
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantFarakate&show_icons=true&theme=radical)
+## 📜 Certification
 
+**AI Product Management (HelloPM)** — *Jan 2026*  
+- Product strategy & roadmap planning  
+- Prioritization frameworks  
+- AI product thinking & success metrics  
+- Prompt engineering fundamentals  
 
+---
 
-## 📫 Contact Me  
-I'm always open to new opportunities and collaborations. Feel free to reach out!  
+## 📫 Connect With Me
 
-<div align="left" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prashant_Farakate-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:prashantf18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prashantf18@gmail.com-red?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://wa.me/+919130902721">
-    <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>  
+I’m open to **AI Product, Business Analyst, and GenAI-focused roles** and collaborations.
 
-  <br>
-  
-  <p align="center">
-    Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
-  </p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prashant-farakate-91a162191/)
+- 📧 Email: prashantf18@gmail.com
+- 💬 WhatsApp: +91 9130902721
 
-
-
-<!--
-**prashantFarakate/PrashantFarakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for visiting my GitHub — happy to connect and collaborate!
+</p>
