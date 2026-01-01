@@ -1,4 +1,4 @@
-[![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/Prashant_Banner.png)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
+[![Banner](https://github.com/prashantFarakate/PrashantFarakate/blob/main/BusinessAnalystBanner.png)](https://www.linkedin.com/in/prashant-farakate-91a162191/)
 
 <h3 align="center">
   👋 Hi, I'm <a href="https://www.linkedin.com/in/prashant-farakate-91a162191/" target="_blank">Prashant Farakate</a>
