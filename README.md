@@ -5,19 +5,26 @@
 </h3>
 
 <h3 align="center">
-  Business Analyst | AI Product Management Enthusiast | GenAI & QA Background
+  Business Analyst | AI Product Management 
 </h3>
 
 ---
 
 ## 🧑‍💻 About Me
+5 years of experience in AI products at Infor — Intelligent Document Processing, LLM-based extraction, GenAI pipelines, OCR, RPA.
 
-Having **5 years of experience** across **Business Analysis and Quality Assurance** in the ERP domain, working on **AI-enabled document processing systems**.
+Day to day: writing requirements for AI features, improving extraction accuracy with prompt design and ground truth, defining eval frameworks, supporting agile delivery across ML and engineering teams.
 
-My work focuses on bridging business requirements with AI and engineering teams to deliver reliable, scalable GenAI solutions. I have hands-on experience with LLM-based systems, including entity extraction, document classification, OCR, and prompt engineering, and exposure to modern AI architectures such as Agentic AI, Retrieval-Augmented Generation (RAG), Vector Databases, and MCP-based workflows.
+Currently building toward AI Product Management. Certified via HelloPM.
 
-Currently, I’m transitioning toward **AI Product Management**, supported by formal training through **HelloPM** and practical experience on GenAI products.
-
+---
+ 
+**Working with**
+LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · Entity Extraction
+ 
+**Tooling**
+Python · SQL · JIRA · Figma · Postman · AWS · Cursor
+ 
 ---
 
 ## 🔍 What I Work On
