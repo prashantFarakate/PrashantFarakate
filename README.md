@@ -76,12 +76,6 @@ Currently, I’m transitioning toward **AI Product Management**, supported by fo
 
 ## 📂 Featured Projects
 
-- **[Web Automation Framework](https://github.com/prashantFarakate/playwright-pytest-framework)**  
-  A scalable Playwright + Pytest framework for modern web automation.
-
-- **[API Automation Framework](https://github.com/prashantFarakate/api-automation-framework-python)**  
-  Pytest-based framework for REST API testing and validation.
-
 - **[Text Comparator](https://text-comparator.web.app/)**  
   Web tool to compare text outputs with visual highlights for differences — useful for validating AI extraction results.
 
