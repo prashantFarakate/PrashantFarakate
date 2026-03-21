@@ -13,34 +13,29 @@
 
 Day to day: writing requirements for AI features, improving extraction accuracy with prompt design and ground truth, defining eval frameworks, supporting agile delivery across ML and engineering teams.
 
-Currently building toward AI Product Management. Certified via HelloPM.
+<p align="center">
+Writing requirements for AI features · prompt design · eval frameworks · agile delivery with ML teams
+</p>
 
+<p align="center">
+Certified in AI Product Management (HelloPM, 2026) · Open to Senior BA / PM roles in AI
+</p>
+
+---
  
-**Working with**
-LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · Entity Extraction
-**Tooling**
-Python · SQL · JIRA · Figma · Postman · AWS · Cursor
-
+`LLMs` `RAG` `Prompt Engineering` `Agentic AI` `Vector DBs` `MCP` `OCR` `Python` `SQL` `AWS`  
+`User Stories` `Acceptance Criteria` `BRD/FRD` `Stakeholder Management` `UAT` `Agile`
+ 
 ---
 
 ## 📂 Featured Projects
-
+- **[prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library)** — PE techniques I use at work  
 - **[Text Comparator](https://text-comparator.web.app/)**  
   Web tool to compare text outputs with visual highlights for differences — useful for validating AI extraction results.
 
 ---
 
-## 📜 Certification
-
-**AI Product Management (HelloPM)** — *Jan 2026*  
-- Product strategy & roadmap planning  
-- Prioritization frameworks  
-- AI product thinking & success metrics  
-- Prompt engineering fundamentals  
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 I’m open to **AI Product, Business Analyst, and GenAI-focused roles** and collaborations.
 
