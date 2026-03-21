@@ -23,14 +23,12 @@ Certified in AI Product Management (HelloPM, 2026) · Open to Senior BA / PM rol
 `User Stories` `Acceptance Criteria` `BRD/FRD` `Stakeholder Management` `UAT` `Agile`
 
 
-## 📂 Featured Projects
+## Projects
 - **[prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library)** — PE techniques I use at work  
 - **[Text Comparator](https://text-comparator.web.app/)**  
   Web tool to compare text outputs with visual highlights for differences — useful for validating AI extraction results.
 
----
-
-## Connect With Me
+## Connect
 
 I’m open to **AI Product, Business Analyst, and GenAI-focused roles** and collaborations.
 
