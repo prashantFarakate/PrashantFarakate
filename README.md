@@ -14,7 +14,7 @@
 Day to day: writing requirements for AI features, improving extraction accuracy with prompt design and ground truth, defining eval frameworks, supporting agile delivery across ML and engineering teams.
 
 <p align="center">
-Certified in AI Product Management (HelloPM, 2026) · Open to Senior BA / PM roles in AI
+Certified in AI Product Management (HelloPM, 2026) · Open to an AI-focused product role. 
 </p>
 
 
@@ -25,10 +25,9 @@ Certified in AI Product Management (HelloPM, 2026) · Open to Senior BA / PM rol
 
 ## Projects
 - **[prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library)** — PE techniques I use at work  
-- **[Text Comparator](https://text-comparator.web.app/)**  
-  Web tool to compare text outputs with visual highlights for differences — useful for validating AI extraction results.
+- **[Text Comparator](https://text-comparator.web.app/)** — Web tool to compare text outputs with visual highlights for differences. Useful for validating AI extraction results.
 
-## Connect
+## Contact details 
 
 I’m open to **AI Product, Business Analyst, and GenAI-focused roles** and collaborations.
 
