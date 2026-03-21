@@ -18,15 +18,8 @@ Currently building toward AI Product Management. Certified via HelloPM.
  
 **Working with**
 LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · Entity Extraction
- 
 **Tooling**
 Python · SQL · JIRA · Figma · Postman · AWS · Cursor
- 
-
- 
-**Here**
-— [prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library) — notes on PE techniques I use at work
-— [Text Comparator](https://text-comparator.web.app/) — tool for validating AI extraction outputs
 
 ---
 
