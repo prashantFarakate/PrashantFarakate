@@ -8,8 +8,6 @@
   Business Analyst | AI Product Management 
 </h3>
 
----
-
 ## About Me
 5 years of experience in AI products at Infor — Intelligent Document Processing, LLM-based extraction, GenAI pipelines, OCR, RPA.
 
@@ -17,7 +15,6 @@ Day to day: writing requirements for AI features, improving extraction accuracy 
 
 Currently building toward AI Product Management. Certified via HelloPM.
 
----
  
 **Working with**
 LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · Entity Extraction
@@ -25,7 +22,7 @@ LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · E
 **Tooling**
 Python · SQL · JIRA · Figma · Postman · AWS · Cursor
  
----
+
  
 **Here**
 — [prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library) — notes on PE techniques I use at work
