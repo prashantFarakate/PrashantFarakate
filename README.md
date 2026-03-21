@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 5 years of experience in AI products at Infor — Intelligent Document Processing, LLM-based extraction, GenAI pipelines, OCR, RPA.
 
 Day to day: writing requirements for AI features, improving extraction accuracy with prompt design and ground truth, defining eval frameworks, supporting agile delivery across ML and engineering teams.
@@ -26,58 +26,10 @@ LLMs · RAG · Prompt Engineering · Agentic AI · Vector DBs · MCP · OCR · E
 Python · SQL · JIRA · Figma · Postman · AWS · Cursor
  
 ---
-
-## 🔍 What I Work On
-
-- 📌 Defining **product requirements, user stories, and acceptance criteria** for AI-enabled features  
-- 🤖 Improving **LLM-based entity extraction & classification** using ground truth, prompt design, and model evaluation  
-- 📊 Analyzing extraction data to identify **error patterns, edge cases, and improvement opportunities**  
-- 🧪 Validating **GenAI model accuracy, performance, and reliability**  
-- 🔁 Supporting **Agile delivery**, backlog prioritization, UAT, and release readiness  
-- 📄 Maintaining **product and prompt engineering best-practice documentation**
-
----
-
-## 🌱 Currently Learning
-
-- AI Product Management (HelloPM)
-- Product strategy, roadmaps, and prioritization for AI products
-- AI success metrics, evaluation frameworks, and trade-offs
-- Prototyping and AI-first product thinking
-
----
-
-## 🧠 Skills Snapshot
-
-### 🧩 Product & Business Analysis
-- Product strategy & roadmap fundamentals  
-- Feature prioritization & problem framing  
-- Requirement gathering, user stories, acceptance criteria  
-- Stakeholder management & UAT  
-- Product & process documentation  
-
-### 🤖 AI & GenAI
-- LLM fundamentals & prompt engineering  
-- Agentic AI concepts & workflow orchestration  
-- Retrieval-Augmented Generation (RAG) systems  
-- Vector Databases (embedding-based retrieval)  
-- MCP-based AI workflows  
-- Entity extraction & document classification  
-- Ground-truth creation & model evaluation  
-- AI quality metrics, accuracy validation, and reliability testing  
-
-### 📊 Data & QA
-- Python, SQL (PostgreSQL), Pandas, NumPy  
-- Web & API testing (Postman, pytest)  
-- Performance testing (JMeter)  
-- Defect tracking (JIRA, Zephyr, TestLink)  
-
-### 🛠 Tools & Platforms
-- JIRA, Figma, Postman, JMeter  
-- VS Code, PyCharm, Git  
-- Cursor, Amazon Q, Lovable (AI productivity tools)  
-- AWS (S3, EC2)  
-- Vector DB–backed retrieval systems (RAG pipelines)
+ 
+**Here**
+— [prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library) — notes on PE techniques I use at work
+— [Text Comparator](https://text-comparator.web.app/) — tool for validating AI extraction outputs
 
 ---
 
@@ -104,7 +56,6 @@ I’m open to **AI Product, Business Analyst, and GenAI-focused roles** and coll
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashant-farakate-91a162191/)
 - 📧 Email: prashantf18@gmail.com
-- 💬 WhatsApp: +91 9130902721
 
 <p align="center">
   Thanks for visiting my GitHub — happy to connect and collaborate!
