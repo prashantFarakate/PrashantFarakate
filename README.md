@@ -14,19 +14,14 @@
 Day to day: writing requirements for AI features, improving extraction accuracy with prompt design and ground truth, defining eval frameworks, supporting agile delivery across ML and engineering teams.
 
 <p align="center">
-Writing requirements for AI features · prompt design · eval frameworks · agile delivery with ML teams
-</p>
-
-<p align="center">
 Certified in AI Product Management (HelloPM, 2026) · Open to Senior BA / PM roles in AI
 </p>
 
----
+
  
 `LLMs` `RAG` `Prompt Engineering` `Agentic AI` `Vector DBs` `MCP` `OCR` `Python` `SQL` `AWS`  
 `User Stories` `Acceptance Criteria` `BRD/FRD` `Stakeholder Management` `UAT` `Agile`
- 
----
+
 
 ## 📂 Featured Projects
 - **[prompt-engineering-library](https://github.com/prashantFarakate/prompt-engineering-library)** — PE techniques I use at work  
