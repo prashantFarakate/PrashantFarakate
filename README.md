@@ -24,7 +24,7 @@ Certified in AI Product Management (HelloPM, 2026) · Open to an AI-focused prod
 
 
 ## Projects
-- **[agentic-ai-application-library](https://github.com/prashantFarakate/SalesSathi)** — Grounded Product & Finance Q&A for Tata Motors sales teams
+- **[Tata Motors - Sales Sathi](https://github.com/prashantFarakate/SalesSathi)** — Grounded Product & Finance Q&A for Tata Motors sales teams
 - **[agentic-ai-application-library](https://github.com/prashantFarakate/Agentic-AI-Applications)** — Agentic AI applications
 - **[Text Comparator](https://text-comparator.web.app/)** — Web tool to compare text outputs with visual highlights for differences. Useful for validating AI extraction results.
 
